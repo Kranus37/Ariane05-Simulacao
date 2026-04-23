@@ -2,7 +2,7 @@
 
 Simulação desenvolvida como parte da N1 da disciplina de **Arquitetura de Software** (Prof. Jefferson Salomão Rodrigues), Engenharia de Software, 5º Semestre.
 
-**Grupo 4:** André Costa França, Flávio Araújo Leal, Gabriel Pinheiro Paiva, Geovanna Candido Mira da Silva, Samuel Telles de Vasconcellos Resende.
+**Grupo 4:** André Costa França, Flávio Araújo Leal, Gabriel Pinheiro Paiva, Geovanna Candido Miro da Silva, Samuel Telles de Vasconcellos Resende.
 
 ---
 
