@@ -53,7 +53,3 @@ A interface `EstrategiaConversao` e sua implementação `ConversaoSegura` separa
 A interface `ObservadorVoo` permite que qualquer componente seja notificado sobre eventos do `CircuitBreaker`. A `EstacaoTerrestre` e o `MonitorSeguranca` são os observadores que recebem alertas em tempo real quando falhas acontecem.
 
 ---
-
-## Por que esse código é uma simulação
-
-Os dados de voo são mockados (velocidade fixa de 32768.5 m/s). O código não tem integração com hardware real nem com sistemas de tempo real. O foco é mostrar a estrutura arquitetural e como os padrões se relacionam, não reproduzir as condições exatas de voo.
